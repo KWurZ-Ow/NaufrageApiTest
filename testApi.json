@@ -34,8 +34,8 @@
           "caption": "bonjourPlaneGPS",
           "altitude": 0,
           "altitudeMode": "GroundRelative",
-          "latitude": 45.907942, 
-          "longitude": 6.101892,
+          "latitude": 45.907906, 
+          "longitude": 6.101769,
           "showDistance": true,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
@@ -50,8 +50,8 @@
           "caption": "bonjourCameraGPS",
           "altitude": 0,
           "altitudeMode": "GroundRelative",
-          "latitude": 45.910384429651806, 
-          "longitude": 6.143506811432203,
+          "latitude": 45.901101, 
+          "longitude": 6.146964,
           "showDistance": false,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
