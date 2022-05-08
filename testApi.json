@@ -1,0 +1,135 @@
+{
+  "artwork": {
+    "number": "1",
+    "locale": "fr",
+    "name": "Un voyage photographique",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec varius purus, quis bibendum erat. ",
+    "bio": "Bio : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec varius purus, quis bibendum erat. Quisque id est convallis lacus sodales pretium ac sed nisl.",
+    "author": "Authors : Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nec varius purus, quis bibendum erat. Quisque id est convallis lacus sodales pretium ac sed nisl.",
+    "instruction": {
+      "description": "Cherchez autour de vous un QRCode",
+      "image": {
+        "caption": "InstructionQr",
+        "ext": ".png",
+        "url": "https://i0.wp.com/nicolemuseum.fr/wp-content/uploads/nicolas-barrome-forgues-.jpg"
+      }
+    },
+    "audio": {
+      "caption": "Moon-Wisper.mp3",
+      "ext": ".mp3",
+      "url": "http://back-acyp-ar.s3.fr-par.scw.cloud/Moon_Wisper_2019c603dc.mp3",
+      "updatedAt": "2022-03-23T16:48:56.301Z"
+    },
+    "images": [
+      {
+        "caption": "Copyright @Async",
+        "ext": ".png",
+        "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/Capture_d_ecran_2022_03_23_a_16_48_03_4a0125b0af.png",
+        "updatedAt": "2022-03-23T16:48:56.301Z"
+      }
+    ],
+    "anchors": {
+      "gps": [
+        {
+          "caption": "bonjourPlaneGPS",
+          "altitude": 0,
+          "altitudeMode": "GroundRelative",
+          "latitude": 45.9073647444657, 
+          "longitude": 6.1018593966524,
+          "showDistance": true,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "plane_GPS",
+            "ext": ".glb",
+            "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
+            "scaleFactor": 1.0,
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        },
+        {
+          "caption": "bonjourCameraGPS",
+          "altitude": 0,
+          "altitudeMode": "GroundRelative",
+          "latitude": 45.910384429651806, 
+          "longitude": 6.143506811432203,
+          "showDistance": true,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "AntiqueCameraGPS",
+            "ext": ".glb",
+            "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+            "scaleFactor": 0.5,
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        },
+        {
+          "caption": "bonjourVideoGPS",
+          "altitude": 1,
+          "altitudeMode": "GroundRelative",
+          "latitude": 45.90741445713608,
+          "longitude": 6.1020629800908575,
+          "showDistance": true,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "VideoGps",
+            "ext": ".mp4",
+            "height": 1,
+            "width" : 1.77,
+            "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/video_sample.mp4",
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        }
+      ],
+      "images": [
+        {
+          "caption": "bonjour",
+          "ext": ".png",
+          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-bonjour.png",
+          "height": 0.10,
+          "width" : 0.10,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "plane_modiers_applied.glb",
+            "ext": ".glb",
+            "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/plane_modiers_applied_7a6c959f5e.glb",
+            "scaleFactor": 0.02,
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        },
+        {
+          "caption": "coucou",
+          "ext": ".png",
+          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-coucou.png",
+          "height": 0.10,
+          "width" : 0.10,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "AntiqueCamera",
+            "ext": ".glb",
+            "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Models/master/2.0/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+            "scaleFactor": 0.02,
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        },
+        {
+          "caption": "salut",
+          "ext": ".png",
+          "url": "https://github.com/AsyncAgency/3D-assets-samples/raw/main/qr-salut.png",
+          "height": 0.10,
+          "width" : 0.10,
+          "updatedAt": "2022-03-29T14:13:03.046Z",
+          "asset": {
+            "caption": "Video",
+            "ext": ".webm",
+            "height": 0.10,
+            "width" : 0.177,
+            "url": "https://back-acyp-ar.s3.fr-par.scw.cloud/video_sample_3cca9dc81a.mp4",
+            "updatedAt": "2022-03-29T14:13:03.046Z"
+          }
+        }
+      ]
+    },
+    "createdAt": "2022-03-23T16:53:43.616Z",
+    "updatedAt": "2022-03-29T14:13:03.046Z"
+  }
+}
