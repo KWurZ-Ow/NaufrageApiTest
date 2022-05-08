@@ -52,7 +52,7 @@
           "altitudeMode": "GroundRelative",
           "latitude": 45.901101, 
           "longitude": 6.146964,
-          "showDistance": false,
+          "showDistance": true,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
             "caption": "AntiqueCameraGPS",
@@ -68,7 +68,7 @@
           "altitudeMode": "GroundRelative",
           "latitude": 45.90741445713608,
           "longitude": 6.1020629800908575,
-          "showDistance": true,
+          "showDistance": false,
           "updatedAt": "2022-03-29T14:13:03.046Z",
           "asset": {
             "caption": "VideoGps",
